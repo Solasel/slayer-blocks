@@ -1,0 +1,292 @@
+Contains prompts to get user input, while I'm working on the web interface.
+
+Krystilia:
+-----------------------------------------------
+Ankou:
+Aviansies:
+Bandits:
+Bears:
+Black Demons:
+Black Dragons:
+Bosses:
+Chaos Druids:
+Dark Warriors:
+Earth Warriors:
+Ents:
+Fire Giants:
+Greater Demons:
+Green Dragons:
+Hellhounds:
+Ice Giants:
+Ice Warriors:
+Lava Dragons:
+Lesser Demons:
+Magic Axes:
+Mammoths:
+Revenants:
+Rogues:
+Scorpions:
+Skeletons:
+Spiders:
+Spiritual Creatures:    *63 Slayer, Death Plateau, 70 Strength OR 70 Agility
+-----------------------------------------------
+
+Turael:
+-----------------------------------------------
+Banshees:               *15 Slayer
+Bats:
+Bears:
+Birds:
+Cave Bugs:              *7 Slayer
+Cave Crawlers:          *10 Slayer, Priest in Peril
+Cave Slimes:            *17 Slayer
+Cows:
+Crawling Hands:         *5 Slayer, Priest in Peril
+Desert Lizards:         *22 Slayer
+Dogs:
+Dwarves:
+Ghosts:
+Goblins:
+Icefiends:
+Kalphites:
+Minotaurs:
+Monkeys:
+Rats:
+Scorpions:
+Skeletons:
+Spiders:
+Wolves:
+Zombies:
+-----------------------------------------------
+
+Mazchna:
+-----------------------------------------------
+Banshees:               *15 Slayer
+Bats:
+Bears:
+Catablepons:
+Cave Bugs:              *7 Slayer
+Cave Crawlers:          *10 Slayer
+Cave Slimes:            *17 Slayer
+Cockatrice:             *25 Slayer
+Crawling Hands:         *5 Slayer, Priest in Peril
+Desert Lizards:         *22 Slayer
+Dogs:
+Earth Warriors:
+Flesh Crawlers:
+Ghosts:
+Ghouls:                 *Priest in Peril
+Hill Giants:
+Hobgoblins:
+Ice Warriors:
+Kalphites:
+Killerwatts:            *37 Slayer, Ernest the Chicken
+Mogres:                 *32 Slayer, Skippy and the Mogres
+Pyrefiends:             *30 Slayer
+Rockslugs:              *20 Slayer
+Scorpions:
+Shades:
+Skeletons:
+Vampyres:
+Wall Beasts:            *35 Slayer
+Wolves:
+Zombies:
+-----------------------------------------------
+
+Vannaka:
+-----------------------------------------------
+Aberrant Spectres:      *60 Slayer
+Abyssal Demons:         *85 Slayer
+Ankou:
+Banshees:               *15 Slayer
+Basilisks:              *40 Slayer
+Bloodveld:              *50 Slayer
+Blue Dragons:
+Brine Rats:             *47 Slayer, Olaf's Quest
+Bronze Dragons:
+Cave Bugs:              *7 Slayer
+Cave Crawlers:          *10 Slayer
+Cave Slimes:            *17 Slayer
+Cockatrice:             *25 Slayer
+Crawling Hands:         *5 Slayer, Priest in Peril
+Crocodile:
+Dagannoth:              *Horror from the Deep
+Desert Lizards:         *22 Slayer
+Dust Devils:            *65 Slayer
+Earth Warriors:
+Elves:                  *Regicide
+Fever Spiders:          *42 Slayer, Rum Deal
+Fire Giants:
+Gargoyles:              *75 Slayer, Priest in Peril
+Ghouls:                 *Priest in Peril
+Green Dragons:
+Harpie Bug Swarms:      *25 Slayer
+Hellhounds:
+Hill Giants:
+Hobgoblins:
+Ice Giants:
+Ice Warriors:
+Infernal Mages:         *45 Slayer, Priest in Peril
+Jellies:                *52 Slayer
+Jungle Horrors:         *Cabin Fever
+Kalphites:
+Killerwatts:            *37 Slayer, Ernest the Chicken
+Kurasks:                *70 Slayer
+Lesser Demons:
+Shades:
+Mogres:                 *32 Slayer, Skippy and the Mogres
+Molannisks:             *39 Slayer, Death to the Dorgeshuun
+Moss Giants:
+Nechryael:              *80 Slayer
+Ogres:
+Otherworldly Beings:    *Lost City
+Pyrefiends:             *30 Slayer
+Rockslugs:              *20 Slayer
+Sea Snakes:
+Shadow Warriors:        *Legends' Quest
+Spiritual Creatures:    *63 Slayer, Death Plateau, 70 Strength OR 70 Agility
+Terror Dogs:            *40 Slayer, Priest in Peril
+Trolls:
+Turoth:                 *55 Slayer
+Vampyres:               *Priest in Peril
+Wall Beasts:            *35 Slayer
+Werewolves:             *Priest in Peril
+-----------------------------------------------
+
+Chaeldar:
+-----------------------------------------------
+Aberrant Spectres:      *60 Slayer
+Abyssal Demons:         *85 Slayer
+Aviansies:
+Banshees:               *15 Slayer
+Basilisks:              *40 Slayer
+Black Demons:
+Bloodveld:              *50 Slayer
+Blue Dragons:
+Brine Rats:             *47 Slayer, Olaf's Quest
+Bronze Dragons:
+Cave Crawlers:          *10 Slayer
+Cave Horrors:           *58 Slayer, Cabin Fever
+Cave Kraken:            *87 Slayer
+Cave Slimes:            *17 Slayer
+Cockatrice:             *25 Slayer
+Dagannoth:              *Horror from the Deep
+Desert Lizards:         *22 Slayer
+Dust Devils:            *65 Slayer
+Elves:                  *Regicide
+Fever Spiders:          *42 Slayer, Rum Deal
+Fire Giants:
+Fossil Island Wyverns:  *Bone Voyage
+Gargoyles:              *75 Slayer, Priest in Peril
+Greater Demons:
+Harpie Bug Swarms:      *25 Slayer
+Hellhounds:
+Infernal Mages:         *45 Slayer, Priest in Peril
+Iron Dragons:
+Jellies:                *52 Slayer
+Jungle Horrors:         *Cabin Fever
+Kalphites:
+Kurasks:                *70 Slayer
+Lesser Demons:
+Lizardmen:
+Mogres:                 *32 Slayer, Skippy and the Mogres
+Molanisks:              *39 Slayer, Death to the Dorgeshuun
+Mutated Zygomites:      *57 Slayer, Lost City OR Bone Voyage
+Nechryael:              *80 Slayer
+Pyrefiends:             *30 Slayer
+Rockslugs:              *20 Slayer
+Shadow Warriors:        *Legends' Quest
+Skeletal Wyverns:       *72 Slayer
+Spiritual Creatures:    *63 Slayer, Death Plateau, 70 Strength OR 70 Agility
+Steel Dragons:
+Trolls:
+Turoth:                 *55 Slayer
+TzHaar:
+Wall Beasts:            *35 Slayer
+-----------------------------------------------
+
+Nieve:
+-----------------------------------------------
+Aberrant Spectres:      *60 Slayer
+Abyssal Demons:         *85 Slayer
+Adamant Dragons:        *Dragon Slayer 2
+Ankou
+Aviansies:
+Black Demons:
+Black Dragons:
+Bloodveld:              *55 Slayer
+Blue Dragons:
+Bosses:
+Brine Rats:             *47 Slayer, Olaf's Quest
+Cave Horrors:           *58 Slayer, Cabin Fever
+Cave Kraken:            *87 Slayer
+Dagannoth:              *Horror from the Deep
+Dark Beasts:            *90 Slayer, Mournings Ends Part II
+Dust Devils:            *65 Slayer
+Elves:                  *Regicide
+Fire Giants:
+Fossil Island Wyverns:  *Bone Voyage
+Gargoyles:              *75 Slayer, Priest in Peril
+Greater Demons:
+Hellhounds:
+Iron Dragons:
+Kalphites:
+Kurasks:                *70 Slayer
+Lizardmen:
+Mithril Dragons:        *Barbarian Training
+Mutated Zygomites:      *57 Slayer, Lost City OR Bone Voyage
+Nechryael:              *80 Slayer
+Red Dragons:
+Rune Dragons:           *Dragon Slayer 2
+Scabarites:             *Contact!
+Skeletal Wyverns:       *72 Slayer
+Smoke Devils:           *93 Slayer
+Spiritual Creatures:    *63 Slayer, Death Plateau, 70 Strength OR 70 Agility
+Steel Dragons:
+Suqahs:                  *Lunar Diplomacy
+Trolls:
+Turoth:                 *55 Slayer
+TzHaar:
+-----------------------------------------------
+
+Duradel:
+-----------------------------------------------
+Aberrant Spectres:      *60 Slayer
+Abyssal Demons:         *85 Slayer
+Adamant Dragons:        *Dragon Slayer 2
+Ankou
+Aviansies:
+Black Demons:
+Black Dragons:
+Bloodveld:              *55 Slayer
+Blue Dragons:
+Bosses:
+Cave Horrors:           *58 Slayer, Cabin Fever
+Cave Kraken:            *87 Slayer
+Dagannoth:              *Horror from the Deep
+Dark Beasts:            *90 Slayer, Mournings Ends Part II
+Dust Devils:            *65 Slayer
+Elves:                  *Regicide
+Fire Giants:
+Fossil Island Wyverns:  *Bone Voyage
+Gargoyles:              *75 Slayer, Priest in Peril
+Greater Demons:
+Hellhounds:
+Iron Dragons:
+Kalphites:
+Kurasks:                *70 Slayer
+Lizardmen:
+Mithril Dragons:        *Barbarian Training
+Mutated Zygomites:      *57 Slayer, Lost City OR Bone Voyage
+Nechryael:              *80 Slayer
+Red Dragons:
+Rune Dragons:           *Dragon Slayer 2
+Skeletal Wyverns:       *72 Slayer
+Smoke Devils:           *93 Slayer
+Spiritual Creatures:    *63 Slayer, Death Plateau, 70 Strength OR 70 Agility
+Steel Dragons:
+Suqahs:                  *Lunar Diplomacy
+Trolls:
+TzHaar:
+Waterfiends:
+-----------------------------------------------

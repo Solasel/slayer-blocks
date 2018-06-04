@@ -1,0 +1,93 @@
+William Walker:
+
+    Duradel:
+        masters[6].tasks[0].user_in(true, 15);    //Aberrant Spectres
+		masters[6].tasks[1].user_in(true, 16);    //Abyssal Demons
+		masters[6].tasks[2].user_in(true, 2);    //Adamant Dragons
+		masters[6].tasks[3].user_in(true, 21);    //Ankou
+		masters[6].tasks[4].user_in(true, 1);    //Aviansies
+		masters[6].tasks[5].user_in(true, 3);    //Black Demons
+		masters[6].tasks[6].user_in(true, 18);    //Black Dragons
+		masters[6].tasks[7].user_in(true, 14);    //Bloodveld
+		masters[6].tasks[8].user_in(true, 7);    //Blue Dragons
+		masters[6].tasks[9].user_in(true, 0);    //Bosses
+		masters[6].tasks[10].user_in(true, 8);   //Cave Horrors
+		masters[6].tasks[11].user_in(true, 11);   //Cave Kraken
+		masters[6].tasks[12].user_in(true, 24);   //Dagannoth
+		masters[6].tasks[13].user_in(true, 6);   //Dark Beasts
+		masters[6].tasks[14].user_in(true, 22);   //Dust Devils
+		masters[6].tasks[15].user_in(true, 4);   //Elves
+		masters[6].tasks[16].user_in(true, 20);   //Fire Giants
+		masters[6].tasks[17].user_in(true, 0);   //Fossil Island Wyverns
+		masters[6].tasks[18].user_in(true, 17);   //Gargoyles
+		masters[6].tasks[19].user_in(true, 3);   //Greater Demons
+		masters[6].tasks[20].user_in(true, 19);   //Hellhounds
+		masters[6].tasks[21].user_in(true, 0);   //Iron Dragons
+		masters[6].tasks[22].user_in(true, 5);   //Kalphites
+		masters[6].tasks[23].user_in(true, 9);   //Kurasks
+		masters[6].tasks[24].user_in(true, 3);   //Lizardmen
+		masters[6].tasks[25].user_in(true, 0);   //Mithril Dragons
+		masters[6].tasks[26].user_in(true, 5);   //Mutated Zygomites
+		masters[6].tasks[27].user_in(true, 23);   //Nechryael
+		masters[6].tasks[28].user_in(true, 0);   //Red Dragons
+		masters[6].tasks[29].user_in(true, 0);   //Rune Dragons
+		masters[6].tasks[30].user_in(true, 10);   //Skeletal Wyverns
+		masters[6].tasks[31].user_in(true, 7);   //Smoke Devils
+		masters[6].tasks[32].user_in(true, 1);   //Spiritual Creatures
+		masters[6].tasks[33].user_in(true, 0);   //Steel Dragons
+		masters[6].tasks[34].user_in(true, 13);   //Suqahs
+		masters[6].tasks[35].user_in(true, 12);   //Trolls
+		masters[6].tasks[36].user_in(true, 25);   //TzHaar
+		masters[6].tasks[37].user_in(true, 5);   //Waterfiends
+
+The2TimerWC:
+
+    Chaeldar:
+        masters[4].tasks[0].user_in(true, 3);    //Aberrant Spectres
+		masters[4].tasks[1].user_in(true, 0);    //Abyssal Demons
+		masters[4].tasks[2].user_in(true, 3);    //Aviansies
+		masters[4].tasks[3].user_in(true, 1);    //Banshees
+		masters[4].tasks[4].user_in(true, 1);    //Basilisks
+		masters[4].tasks[5].user_in(true, 1);    //Black Demons
+		masters[4].tasks[6].user_in(true, 1);    //Bloodveld
+		masters[4].tasks[7].user_in(true, 3);    //Blue Dragons
+		masters[4].tasks[8].user_in(false, 1);    //Brine Rats
+		masters[4].tasks[9].user_in(true, 1);    //Bronze Dragons
+		masters[4].tasks[10].user_in(true, 1);   //Cave Crawlers
+		masters[4].tasks[11].user_in(true, 2);   //Cave Horrors
+		masters[4].tasks[12].user_in(true, 0);   //Cave Kraken
+		masters[4].tasks[13].user_in(true, 1);   //Cave Slimes
+		masters[4].tasks[14].user_in(true, 1);   //Cockatrice
+		masters[4].tasks[15].user_in(true, 2);   //Dagannoth
+		masters[4].tasks[16].user_in(true, 1);   //Desert Lizards
+		masters[4].tasks[17].user_in(true, 0);   //Dust Devils
+		masters[4].tasks[18].user_in(true, 2);   //Elves
+		masters[4].tasks[19].user_in(true, 1);   //Fever Spiders
+		masters[4].tasks[20].user_in(true, 1);   //Fire Giants
+		masters[4].tasks[21].user_in(true, 0);   //Fossil Island Wyverns
+		masters[4].tasks[22].user_in(true, 0);   //Gargoyles
+		masters[4].tasks[23].user_in(true, 2);   //Greater Demons
+		masters[4].tasks[24].user_in(true, 1);   //Harpie Bug Swarms
+		masters[4].tasks[25].user_in(true, 2);   //Hellhounds
+		masters[4].tasks[26].user_in(true, 1);   //Infernal Mages
+		masters[4].tasks[27].user_in(true, 2);   //Iron Dragons
+		masters[4].tasks[28].user_in(true, 1);   //Jellies
+		masters[4].tasks[29].user_in(true, 1);   //Jungle Horrors
+		masters[4].tasks[30].user_in(true, 2);   //Kalphites
+		masters[4].tasks[31].user_in(true, 0);   //Kurasks
+		masters[4].tasks[32].user_in(true, 1);   //Lesser Demons
+		masters[4].tasks[33].user_in(true, 3);   //Lizardmen
+		masters[4].tasks[34].user_in(true, 1);   //Mogres
+		masters[4].tasks[35].user_in(true, 1);   //Molanisks
+		masters[4].tasks[36].user_in(true, 1);   //Mutated Zygomites
+		masters[4].tasks[37].user_in(true, 0);   //Nechryael
+		masters[4].tasks[38].user_in(true, 1);   //Pyrefiends
+		masters[4].tasks[39].user_in(true, 1);   //Rockslugs
+		masters[4].tasks[40].user_in(true, 1);   //Shadow Warriors
+		masters[4].tasks[41].user_in(true, 0);   //Skeletal Wyverns
+		masters[4].tasks[42].user_in(true, 0);   //Spiritual Creatures
+		masters[4].tasks[43].user_in(true, 3);   //Steel Dragons
+		masters[4].tasks[44].user_in(true, 1);   //Trolls
+		masters[4].tasks[45].user_in(true, 2);   //Turoth
+		masters[4].tasks[46].user_in(true, 3);   //TzHaar
+		masters[4].tasks[47].user_in(true, 1);   //Wall Beasts
